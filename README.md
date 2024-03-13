@@ -67,7 +67,7 @@ Além disso, este arquivo também mostra o uso de hooks de ciclo de vida do Jest
 
 #
 
-<table class="clone">
+<table class="clone" border="0px">
 <td>
   <div>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
