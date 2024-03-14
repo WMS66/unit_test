@@ -96,3 +96,11 @@ Além disso, este arquivo também mostra o uso de hooks de ciclo de vida do Jest
 `yarn test`
 
 Dentro da pasta do projeto.
+
+#
+
+### Links:
+
+[GitHub](https://github.com/cabraldasilvac)
+
+[Linkedin](https://www.linkedin.com/in/cabraldasilvac/)
